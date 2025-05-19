@@ -1,0 +1,8 @@
+fastapi
+tavily-python
+groq
+python-dotenv
+pydantic
+uvicorn[standard]
+pydantic[email]
+instructor
