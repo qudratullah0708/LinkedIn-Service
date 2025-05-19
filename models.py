@@ -13,3 +13,8 @@ class Lead(BaseModel):
 
 class Leads(BaseModel):
     leads: List[Lead]
+
+
+
+class QueryRequest(BaseModel):
+    query: str
